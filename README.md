@@ -14,23 +14,6 @@ https://blogster-3m69.onrender.com/
 
 
 
-## Appendix
-
-The REST APIs are all derived from my backend application. Here is the link to the backend source code.
-```
-https://github.com/Abhishekhti/mern-blog-backend.git
-```
-
-
-
-
-
-
-
-
-
-
-
 ## Features
 
 - **Authentication and Authorization:** One of the key features of Blogster is its robust authentication system. Users can securely register and login into their accounts, ensuring that their personal information is protected. Additionally, Blogster implements authorization to control access to certain features, ensuring that only authorized users can perform specific actions.
